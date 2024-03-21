@@ -11,10 +11,6 @@ Auteur : ElyKar
 Origine : [RaDio Suspecte](https://hackropole.fr/fr/challenges/hardware/fcsc2020-hardware-radio-suspecte/)
 
 
-## Connectez vous en WEBSSH
-> http://localhost
-
-
 
 -----------
 
